@@ -1,2 +1,2 @@
 #Prova
-![](git_github.gif)
+![GMSM](GoogleMapsSightsManager.gif)
